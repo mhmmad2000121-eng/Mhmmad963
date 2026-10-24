@@ -1,0 +1,6 @@
+{
+  "name": "Ghost Vault",
+  "description": "Real stealth vault disguised as a daily notepad with physical sensor trigger, encrypted media vault, and app blocker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

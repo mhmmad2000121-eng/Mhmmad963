@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Ghost Vault</string>
+    <string name="camouflage_app_name">مذكراتي اليومية</string>
+    <string name="accessibility_service_desc">خدمة الخزنة الشبحية لحماية وقفل التطبيقات الحساسة في الخلفية فور تشغيلها.</string>
+    <string name="device_admin_desc">صلاحية إدارة الجهاز لإخفاء التطبيقات من النظام بالكامل.</string>
+    
+    <!-- Camouflage Notepad -->
+    <string name="notes_title">ملاحظاتي</string>
+    <string name="notes_search_hint">ابحث في الملاحظات أو اكتب الرمز السري...</string>
+    <string name="add_note">ملاحظة جديدة</string>
+    <string name="edit_note">تعديل الملاحظة</string>
+    <string name="note_title_hint">العنوان</string>
+    <string name="note_content_hint">اكتب تفاصيل الملاحظة هنا...</string>
+    <string name="save_note">حفظ</string>
+    <string name="delete_note">حذف</string>
+    <string name="pin_note">تثبيت في الأعلى</string>
+    <string name="no_notes">لا توجد ملاحظات بعد. اضغط + لإضافة واحدة.</string>
+
+    <!-- Ghost Vault Header & Tabs -->
+    <string name="vault_title">الخزنة الشبحية</string>
+    <string name="vault_subtitle">نظام الإخفاء والحماية المشفر</string>
+    <string name="tab_media">الوسائط المخفية</string>
+    <string name="tab_apps">قفل وإخفاء التطبيقات</string>
+    <string name="tab_sensor">حساس الفتح الفيزيائي</string>
+    <string name="tab_security">الأمان والإعدادات</string>
+
+    <!-- Media Vault -->
+    <string name="import_media">استيراد وتشفير ملفات</string>
+    <string name="import_desc">اختر صور أو فيديوهات لنقلها وتشفيرها داخل الخزنة وحذفها من المعرض العام</string>
+    <string name="restore_media">استعادة للمعرض العام</string>
+    <string name="delete_permanent">حذف نهائي</string>
+    <string name="no_media">الخزنة فارغة حالياً. اضغط على زر الاستيراد لإخفاء صور أو فيديوهات.</string>
+    <string name="filter_all">الكل</string>
+    <string name="filter_images">الصور</string>
+    <string name="filter_videos">الفيديوهات</string>
+    <string name="media_restored_success">تمت استعادة الملف إلى معرض الهاتف العام بنجاح</string>
+    <string name="media_deleted_success">تم حذف الملف من الخزنة</string>
+
+    <!-- App Blocker -->
+    <string name="search_apps">ابحث عن تطبيق مثبت...</string>
+    <string name="apps_protection_title">نظام حماية وإخفاء التطبيقات</string>
+    <string name="accessibility_protection">حماية خدمة الوصول (فورية بدون ADB)</string>
+    <string name="device_admin_protection">إخفاء جذري عبر مدير الجهاز (Device Admin)</string>
+    <string name="enable_service">تفعيل الخدمة في الإعدادات</string>
+    <string name="launch_securely">تشغيل آمن من داخل الخزنة</string>
+    <string name="app_blocked">تم الحظر والإخفاء</string>
+    <string name="app_unblocked">غير محظور</string>
+
+    <!-- Physical Sensors -->
+    <string name="sensor_status_title">حساس الفتح الفيزيائي المباشر</string>
+    <string name="sensor_instructions">اقلب الهاتف رأساً على عقب (المحور Y أقل من -8) مع تغطية حساس التقارب العلوي لمدة ثانيتين متواصلتين لفتح الخزنة تلقائياً من أي مكان داخل واجهة الملاحظات.</string>
+    <string name="accelerometer_label">حساس التسارع (Accelerometer Y):</string>
+    <string name="proximity_label">حساس التقارب (Proximity Sensor):</string>
+    <string name="sensor_trigger_hold">مدة الاحتفاظ بالحركة:</string>
+    <string name="test_trigger_simulation">تجربة الفتح الفوري (محاكاة الحساسات)</string>
+    <string name="lock_vault">قفل الخزنة والعودة للمفكرة</string>
+</resources>
